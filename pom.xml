@@ -17,6 +17,13 @@
         <version>1.5.1.RELEASE</version>
     </parent>
 
+    <modules>
+        <module>restdocs</module>
+        <module>swagger2</module>
+        <module>mybatis</module>
+        <module>mongo</module>
+    </modules>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
